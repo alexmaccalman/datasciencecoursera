@@ -24,7 +24,7 @@ The data set has three variables with 60 observations with no missing variables.
 ggplot(ToothGrowth, aes(x=as.factor(dose), y=len, fill = dose)) + geom_boxplot() +ggtitle("Tooth Growth Dispersion by Dose") + xlab("Dose") + ylab("Length")
 ```
 
-The plot shows that the higher the dose the higher the tooth length. Now we plot a boxplot that shows the tooth growth by supp.
+The plot shows that the higher the dose the higher the tooth length. Now we plot a boxplot that shows the tooth growth by supp. 
 
 ```{r}
 ggplot(ToothGrowth, aes(x=supp, y=len, fill = supp)) + geom_boxplot() +ggtitle("Tooth Growth Dispersion by Supp") + xlab("Supp") + ylab("Length")
