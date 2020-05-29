@@ -2,7 +2,7 @@
 title: "Exponential Distribution Comparison to the Centeral Limit Theorem"
 author: "Alex MacCalman"
 date: "5/14/2020"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

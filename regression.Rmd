@@ -1,0 +1,50 @@
+---
+title: "Regression Models"
+author: "Alex MacCalman"
+date: "5/28/2020"
+output: html_document
+---
+The report analyzes the Motor Trend Car Road Tests (mtcars) data set. The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).  we will answer the following two questions:  
+“Is an automatic or manual transmission better for MPG”  
+"Quantify the MPG difference between automatic and manual transmissions"  
+
+First we will load libraries.  
+```{r include=FALSE}
+library(ggplot2)
+library(dplyr)
+```
+
+
+Now we load the data and look at a scatter plot matrix and blox plot of am where o = automatic and 1 = manual.  
+```{r}
+df <- mtcars
+pairs(~., df)
+df$am <- as.factor(df$am)
+ggplot(df, aes(x=am, y=mpg)) +geom_boxplot(aes(fill=am)) +
+  labs(title = "Automatic and Manual versus miles per gallon (MPG)") + xlab("Transmition (0 = automatic and 1 = manual)") +
+  ylab("MPG")
+```
+Here we perform a t test to see if there is a significant difference between tranmission types.  
+```{r}
+auto <- df %>% select(mpg, am) %>% filter(am == "0")
+man <- df %>% select(mpg, am) %>% filter(am == "1")
+t.test(auto$mpg, man$mpg)
+```
+The t test indicates that the true difference in the means between automatic and manual transmission effect on mpg is not zero. There are better mpg for manual transimision.
+Nopw we'll fit some linear models.  
+```{r}
+fit <- lm(mpg~am, df)
+summary(fit)
+```
+We can see that the manual transmision has a 7.245 mpg better performace than the automatic transition. Included only the am variable explains ~ 36% of the variable. Next we will fit all variables to then see the impact of am in the presence of the other variables.  
+```{r}
+fit2 <- lm(mpg~., df)
+summary(fit2)
+```
+In the presence of the other variables and while they are held constant, automatic only has a 2.52 mpg improvement over manual. Now we will take a look at the residuals of fit2.    
+```{r}
+par(mfrow = c(2,2))
+plot(fit2)
+```
+
+The plots show that the data is normal and that there is no heteroscedasticity. 
