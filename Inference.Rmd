@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: " Basic Inferential Data Analysis Instructions"
 author: "Alex MacCalman"
@@ -54,3 +55,61 @@ The p value is near 0. Therefore, we can reject the null hypothesis and conclude
 
 
 
+=======
+---
+title: " Basic Inferential Data Analysis Instructions"
+author: "Alex MacCalman"
+date: "5/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Overview
+This page provides insights in the ToothGrowth data from the R datasets package. First we will load the data and explore.
+```{r}
+library(datasets)
+library(ggplot2)
+str(ToothGrowth)
+sum(is.na(ToothGrowth))
+summary(ToothGrowth)
+```
+
+The data set has three variables with 60 observations with no missing variables. Now we plot a boxplot that shows the tooth growth by dose.
+
+```{r}
+ggplot(ToothGrowth, aes(x=as.factor(dose), y=len, fill = dose)) + geom_boxplot() +ggtitle("Tooth Growth Dispersion by Dose") + xlab("Dose") + ylab("Length")
+```
+
+The plot shows that the higher the dose the higher the tooth length. Now we plot a boxplot that shows the tooth growth by supp. 
+
+```{r}
+ggplot(ToothGrowth, aes(x=supp, y=len, fill = supp)) + geom_boxplot() +ggtitle("Tooth Growth Dispersion by Supp") + xlab("Supp") + ylab("Length")
+```
+
+The plot shows the the OJ supp has a higher tooth length than the VC supp. Combining these plots illuminates further the association of supp and dose on tooth length.
+
+```{r}
+ggplot(ToothGrowth, aes(x=as.factor(dose), y=len, fill = dose)) + geom_boxplot() +ggtitle("Tooth Growth Dispersion by Dose") + xlab("Dose") + ylab("Length") + facet_wrap(~ supp)
+```
+
+Now we will conduct hypothesis testing to find a statistical difference of tooth length and supp and dose. First we will start with supp
+```{r}
+t.test(len~supp, ToothGrowth)
+```
+
+The confidence interval contains 0. Therefore, there is no statistical difference between OJ and VJ supp factors. Additionally, the p value is greater than 0.05 and we can conclude that we donot reject the null hypothesis. Now we will look at the dose. the 0.5 does clearly is loweer than the 1 and 2 dosages but the tooth length between 1 and 2 dosages are close. Therefore, we will conduct a hypothesis test on these to dosags. 
+
+```{r}
+dose1 <- ToothGrowth$len[ToothGrowth$dose == 1]
+dose2 <- ToothGrowth$len[ToothGrowth$dose == 2]
+t.test(dose1, dose2)
+```
+
+The p value is near 0. Therefore, we can reject the null hypothesis and conclude that there is a statistical differecne between dose 1 and 2. 
+
+
+
+
+>>>>>>> 64c5435d71821050b874e7dca3a844bd543f94b6
