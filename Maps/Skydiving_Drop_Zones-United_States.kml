@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Skydiving Drop Zones - United States</name>
+    <description>A map showing all skydiving drop zones in the United States. Map created by www.InTheSkySports.com. Contact us to add or edit your DZ.</description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Boston Skydive Center - Smithfield, RI</name>
+        <description><![CDATA[Boston Skydive Center (http://go.clickmeter.com/7u6z/)<br>Located 10 Miles From Providence, RI<br>Located 54 Miles From Boston, MA<br> <br>Closest skydiving center to Providence and Boston.<br> <br>Website: <br>Boston Skydive Center (http://go.clickmeter.com/7u6z/)<br> <br>Call Boston Skydive Center Direct At:<br> <br>1-888-970-5867 x2392]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -71.49353,41.916585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Newport - Middletown, RI</name>
+        <description><![CDATA[Skydive Newport (http://go.clickmeter.com/jnga/)<br>Located 20 Miles From Providence, RI<br>Located 68 Miles From Boston, MA<br> <br>Most scenic skydiving location in New England.....Bar None!<br> <br>Website: <br>Skydive Newport (http://go.clickmeter.com/jnga/)<br> <br>Call Skydive Newport Direct At:<br> <br>1-888-970-5867 x2391]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -71.282108,41.53168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Island Skydiving Center - Moriches, NY</name>
+        <description><![CDATA[Long Island Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-york.html) <br>Moriches, NY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -72.749233,40.823033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Sky Ranch - Gardiner, NY</name>
+        <description><![CDATA[Blue Sky Ranch (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-york.html)<br>Gardiner, NY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -74.152737,41.675436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duanesburg Skydiving Club - Duanesburg, NY</name>
+        <description><![CDATA[Duanesburg Skydiving Club (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-york.html)<br>Duanesburg, NY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -74.135742,42.760279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Finger Lakes Skydivers - Ovid, NY</name>
+        <description><![CDATA[Finger Lakes Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-york.html)<br>Ovid, NY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -76.797352,42.655424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frontier Skydivers - Newfane, NY</name>
+        <description><![CDATA[Frontier Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-york.html)<br>Newfane, NY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -78.764312,43.255205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mohawk Valley Skydiving - Scotia, NY</name>
+        <description><![CDATA[Mohawk Valley Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-york.html)<br>Scotia, NY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -74.028068,42.868148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rochester Skydivers - Albion, NY</name>
+        <description><![CDATA[Rochester Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-york.html)<br>Albion, NY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -78.273597,43.173527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Long Island - Calverton , NY</name>
+        <description><![CDATA[Skydive Long Island (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-york.html)<br>Calverton , NY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -72.788908,40.914875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WNYSkydiving - Akron, NY</name>
+        <description><![CDATA[WNYSkydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-york.html)<br>Akron, NY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -78.482552,43.02087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emerald Coast Skydiving Center - Elberta, AL</name>
+        <description><![CDATA[Emerald Coast Skydiving Center <br> (http://www.intheskysports.com/skydiving/dropzones/united-states/emerald-coast-skydiving-center.html)Elberta, AL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -87.547431,30.46791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Opelika Skydiving Association - Tuskegee, AL</name>
+        <description><![CDATA[Opelika Skydiving Association (http://www.intheskysports.com/skydiving/dropzones/united-states/opelika-skydiving-association.html)<br>Tuskegee, AL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -85.680571,32.456836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Alabama  - Vinemont, AL</name>
+        <description><![CDATA[Skydive Alabama (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-alabama.html)<br>Vinemont, AL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -86.85997,34.268141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alaska Sky Sports - Wasilla, AK</name>
+        <description><![CDATA[Alaska Sky Sports (http://www.intheskysports.com/skydiving/dropzones/united-states/alaska-sky-sports.html)<br>Wasilla, AK]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -149.344497,61.553598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Skyranch - Siloam Springs, AR</name>
+        <description><![CDATA[Skydive Skyranch (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-skyranch.html)<br>Siloam Springs, AR]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -94.49152,36.188737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Complete Parachute Solutions Tactical Training Facility - Coolidge, AZ</name>
+        <description><![CDATA[Complete Parachute Solutions Tactical Training Facility <br> (http://www.intheskysports.com/skydiving/dropzones/united-states/complete-parachute-solutions-tactical-training-facility.html)Coolidge, AZ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -111.426172,32.936694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Desert Skydiving Center - Buckeye, AZ</name>
+        <description><![CDATA[Desert Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/united-states/desert-skydiving-center.html)<br>Buckeye, AZ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -112.677433,33.419443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marana Skydiving Center - Marana, AZ</name>
+        <description><![CDATA[Marana Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/united-states/marana-skydiving-center.html)<br>Marana, AZ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -111.216059,32.406487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phoenix Area Skydiving - Casa Grande, AZ</name>
+        <description><![CDATA[Phoenix Area Skydiving (http://www.intheskysports.com/skydiving/dropzones/united-states/phoenix-area-skydiving.html)<br>Casa Grande, AZ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -111.762156,32.956033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Rock Skydiving - Cottonwood, AZ</name>
+        <description><![CDATA[Red Rock Skydiving (http://www.intheskysports.com/skydiving/dropzones/united-states/red-rock-skydiving.html)<br>Cottonwood, AZ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -112.037973,34.732761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Arizona - Eloy, AZ</name>
+        <description><![CDATA[Skydive Arizona (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-arizona.html)<br>Eloy, AZ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -111.585989,32.806178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Phoenix - Maricopa, AZ</name>
+        <description><![CDATA[Skydive Phoenix (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-phoenix.html)<br>Maricopa, AZ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -112.159896,33.084818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bay Area Skydiving - Byron, CA</name>
+        <description><![CDATA[Bay Area Skydiving <br> (http://www.intheskysports.com/skydiving/dropzones/united-states/bay-area-skydiving.html)Byron, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.632085,37.835005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madera Parachute Center - Madera, CA</name>
+        <description><![CDATA[Madera Parachute Center (http://www.intheskysports.com/skydiving/dropzones/united-states/madera-parachute-center.html)<br>Madera, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -120.10932,36.989751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NorCal Skydiving - Cloverdale, CA</name>
+        <description><![CDATA[NorCal Skydiving (http://www.intheskysports.com/skydiving/dropzones/united-states/norcal-skydiving.html)<br>Cloverdale, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.99278,38.774144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pacific Coast Skydiving - San Diego, CA</name>
+        <description><![CDATA[Pacific Coast Skydiving (http://www.intheskysports.com/skydiving/dropzones/united-states/pacific-coast-skydiving.html)<br>San Diego, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -116.993151,32.570867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Cruz Skydiving/Skydive Surf City - Watsonville, CA</name>
+        <description><![CDATA[Santa Cruz Skydiving/Skydive Surf City (http://www.intheskysports.com/skydiving/dropzones/united-states/santa-cruz-skydiving-skydive-surf-city.html)<br>Watsonville, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.787503,36.933908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SkyDance SkyDiving - Davis, CA</name>
+        <description><![CDATA[SkyDance SkyDiving (http://www.intheskysports.com/skydiving/dropzones/united-states/skydance-skydiving.html)<br>Davis, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.853185,38.584573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Coastal California - Camarillo, CA</name>
+        <description><![CDATA[Skydive Coastal California (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-coastal-california.html)<br>Camarillo, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -119.079115,34.208892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Elsinore - Lake Elsinore, CA</name>
+        <description><![CDATA[Skydive Elsinore (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-elsinore.html)<br>Lake Elsinore, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -117.295918,33.631326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Hollister - Hollister , CA</name>
+        <description><![CDATA[Skydive Hollister (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-hollister.html)<br>Hollister , CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.401544,36.889095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Monterey Bay - Marina, CA</name>
+        <description><![CDATA[Skydive Monterey Bay (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-monterey-bay.html)<br>Marina, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.769135,36.68155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Perris - Perris, CA</name>
+        <description><![CDATA[Skydive Perris (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-perris.html)<br>Perris, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -117.22322,33.763629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Sacramento - Lincoln, CA</name>
+        <description><![CDATA[Skydive Sacramento (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-sacramento.html)<br>Lincoln, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.358049,38.911973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive San Diego - Jamul, CA</name>
+        <description><![CDATA[Skydive San Diego (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-san-diego.html)<br>Jamul, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -116.860456,32.653486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive San Joaquin Valley - Bakersfield, CA</name>
+        <description><![CDATA[Skydive San Joaquin Valley (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-san-joaquin-valley.html)<br>Bakersfield, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -119.067378,35.098441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Santa Barbara, LLC - Lompoc, CA</name>
+        <description><![CDATA[Skydive Santa Barbara (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-santa-barbara.html)<br>Lompoc, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -120.460989,34.666623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Taft - Taft, CA</name>
+        <description><![CDATA[Skydive Taft (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-taft.html)<br>Taft, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -119.444711,35.141178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colorado SkySports - Boulder, CO</name>
+        <description><![CDATA[Colorado SkySports <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-colorado.html)Boulder, CO]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -105.230935,40.037653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mile-Hi Skydiving Center - Longmont, CO</name>
+        <description><![CDATA[Mile-Hi Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-colorado.html)<br>Longmont, CO]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -105.158215,40.16615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive The Rockies! - Canon City, CO</name>
+        <description><![CDATA[Skydive The Rockies! (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-colorado.html)<br>Canon City, CO]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -105.106716,38.43127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boston-Hartford Fun Skydiving - Danielson, CT</name>
+        <description><![CDATA[Boston-Hartford Fun Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-connecticut.html)<br>Danielson, CT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -71.895046,41.818152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Connecticut Parachutists - Ellington, CT</name>
+        <description><![CDATA[Connecticut Parachutists (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-connecticut.html)<br>Ellington, CT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -72.45595,41.923355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Delmarva, Inc. - Laurel, DE</name>
+        <description><![CDATA[Skydive Delmarva, Inc. (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-delaware.html) <br>Laurel, DE]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -75.593061,38.541855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Space Center - Titusville, FL</name>
+        <description><![CDATA[Skydive Space Center (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-space-center.html)<br>Titusville, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.831888,28.619223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Jacksonville - Jacksonville, FL</name>
+        <description><![CDATA[Skydive Jacksonville (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-jacksonville.html)<br>Jacksonville, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.809585,30.280917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Lake Wales - Lake Wales, FL</name>
+        <description><![CDATA[Skydive Lake Wales (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-lake-wales.html)<br>Lake Wales, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.619534,27.897653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miami Skydiving Center - Miami, FL</name>
+        <description><![CDATA[Miami Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/united-states/miami-skydiving-center.html)<br>Miami, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.420523,25.650096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School of Human Flight - Quincy, FL</name>
+        <description><![CDATA[School of Human Flight (http://www.intheskysports.com/skydiving/dropzones/united-states/school-of-human-flight.html)<br>Quincy, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -84.554172,30.597896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Air Adventures - Clewiston, FL</name>
+        <description><![CDATA[Skydive Air Adventures (http://www.intheskysports.com/skydiving/dropzones/united-states/skydive-air-adventures.html)<br>Clewiston, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.04876,26.751321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Amelia Island - Fernandina Beach, FL</name>
+        <description><![CDATA[Skydive Amelia Island (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)<br>Fernandina Beach, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.464396,30.616364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive City - Zephyrhills, FL</name>
+        <description><![CDATA[Skydive City<br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)Zephyrhills, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -82.15029,28.21901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive DeLand - DeLand, FL</name>
+        <description><![CDATA[Skydive DeLand <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)DeLand, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.284494,29.060484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Lake Wales - Lake Wales, FL</name>
+        <description><![CDATA[Skydive Lake Wales (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)<br>Lake Wales, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.619384,27.897634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Miami - Homestead, FL</name>
+        <description><![CDATA[Skydive Miami (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)<br>Homestead, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.542316,25.497091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Palatka - Palatka , FL</name>
+        <description><![CDATA[Skydive Palatka<br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)Palatka , FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.693842,29.658391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Palm Beach - Wellington, FL</name>
+        <description><![CDATA[Skydive Palm Beach (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)<br>Wellington, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.300274,26.638713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Sebastian - Sebastian, FL</name>
+        <description><![CDATA[Skydive Sebastian (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)<br>Sebastian, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.502169,27.817273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Tampa - Mulberry, FL</name>
+        <description><![CDATA[Skydive Tampa (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)<br>Mulberry, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -82.042916,27.932143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SkydiveLive! - DeFuniak Springs , FL</name>
+        <description><![CDATA[SkydiveLive! (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)<br>DeFuniak Springs, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -86.162596,30.733462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SW Florida Skydive Club - Punta Gorda, FL</name>
+        <description><![CDATA[SW Florida Skydive Club (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)<br>Punta Gorda, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.923246,26.972625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jump Florida Skydiving Center - Lake Wales, FL</name>
+        <description><![CDATA[Jump Florida Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-florida.html)<br>Lake Wales, FL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.601424,27.95688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Atlanta - Thomaston, GA</name>
+        <description><![CDATA[Skydive Atlanta <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-georgia.html)Thomaston, GA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -84.267519,32.950289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Georgia - Cedartown, GA</name>
+        <description><![CDATA[Skydive Georgia (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-georgia.html)<br>Cedartown, GA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -85.145502,34.016028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Monroe - Monroe, GA</name>
+        <description><![CDATA[Skydive Monroe (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-georgia.html)<br>Monroe, GA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -83.693955,33.783071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive The Farm - Rockmart, GA</name>
+        <description><![CDATA[Skydive The Farm (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-georgia.html)<br>Rockmart, GA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -85.063598,34.002261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Jumping Place - St. Marys, GA</name>
+        <description><![CDATA[The Jumping Place (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-georgia.html)<br>St. Marys, GA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.560869,30.747424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pacific Skydiving Center - Waialua, HI</name>
+        <description><![CDATA[Pacific Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-hawaii.html)<br>Waialua, HI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -158.183856,21.578612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Hawaii - Waialua, HI</name>
+        <description><![CDATA[Skydive Hawaii (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-hawaii.html)<br>Waialua, HI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -158.182225,21.578632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sky Down Skydiving - Caldwell, ID</name>
+        <description><![CDATA[Sky Down Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-idaho.html)<br>Caldwell, ID]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -116.635902,43.637147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Idaho - Star, ID</name>
+        <description><![CDATA[Skydive Idaho (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-idaho.html)<br>Star, ID]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -116.515696,43.729507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snake River Skydiving - Twin Falls, ID</name>
+        <description><![CDATA[Snake River Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-idaho.html)<br>Twin Falls, ID]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -114.483526,42.483824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicagoland Skydiving Center - Rochelle, IL</name>
+        <description><![CDATA[Chicagoland Skydiving Center <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-illinois.html)Rochelle, IL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -89.072256,41.89247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Illinois Skydiving Center - Thomasboro, IL</name>
+        <description><![CDATA[Illinois Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-illinois.html)<br>Thomasboro, IL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -88.085504,40.239555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Illinois Valley Parachute Club - Minier, IL</name>
+        <description><![CDATA[Illinois Valley Parachute Club (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-illinois.html)<br>Minier, IL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -89.359274,40.435581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Chicago Inc - Ottawa, IL</name>
+        <description><![CDATA[Skydive Chicago Inc (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-illinois.html)<br>Ottawa, IL]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -88.791568,41.400248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jerry's Skydiving Circus - Franklin, IN]]></name>
+        <description><![CDATA[Jerry's Skydiving Circus (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-indiana.html)<br>Franklin, IN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -86.066744,39.426663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plymouth Sky Sports - Plymouth, IN</name>
+        <description><![CDATA[Plymouth Sky Sports (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-indiana.html)<br>Plymouth, IN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -86.311147,41.366535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Fort Wayne - Angola, IN</name>
+        <description><![CDATA[Skydive Fort Wayne (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-indiana.html)<br>Angola, IN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -85.123615,41.636486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Great Lakes - Goshen, IN</name>
+        <description><![CDATA[Skydive Great Lakes (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-indiana.html)<br>Goshen, IN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -85.792687,41.537398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Indianapolis - Frankfort, IN</name>
+        <description><![CDATA[Skydive Indianapolis (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-indiana.html)<br>Frankfort, IN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -86.49946,40.289118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Des Moines Skydivers - Winterset , IA</name>
+        <description><![CDATA[Des Moines Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-iowa.html)<br>Winterset , IA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -94.022799,41.353006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Iowa - Brooklyn , IA</name>
+        <description><![CDATA[Skydive Iowa (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-iowa.html)<br>Brooklyn , IA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -92.411842,41.746662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Air Capital Drop Zone - Wichita, KS</name>
+        <description><![CDATA[Air Capital Drop Zone (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-kansas.html)<br>Wichita, KS]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.173643,37.564854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kansas State University Parachute Club - Abilene, KS</name>
+        <description><![CDATA[Kansas State University Parachute Club (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-kansas.html)<br>Abilene, KS]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.23587,38.907198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Kansas - Osage City, KS</name>
+        <description><![CDATA[Skydive Kansas <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-kansas.html)Osage City, KS]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -95.802906,38.636634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jumping For Fun - Lebanon, KY</name>
+        <description><![CDATA[Jumping For Fun <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-kentucky.html)Lebanon, KY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -85.214252,37.629799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Kentucky - Elizabethtown, KY</name>
+        <description><![CDATA[Skydive Kentucky (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-kentucky.html)<br>Elizabethtown, KY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -85.920768,37.69299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Louisiana - Gilliam, LA</name>
+        <description><![CDATA[Skydive Louisiana <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-louisiana.html)Gilliam, LA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -93.836503,32.840943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Nawlins.com - Slidell, LA</name>
+        <description><![CDATA[Skydive Nawlins.com (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-louisiana.html)<br>Slidell, LA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -89.823747,30.340936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Skydive Experience - Vivian, LA</name>
+        <description><![CDATA[The Skydive Experience (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-louisiana.html)<br>Vivian, LA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -94.011126,32.86252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive New England - Lebanon, ME</name>
+        <description><![CDATA[Skydive New England (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-maine.html)<br>Lebanon, ME]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -70.922735,43.370928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Maine Skydiving - Pittsfield, ME</name>
+        <description><![CDATA[Central Maine Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-maine.html)<br>Pittsfield, ME]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -69.377418,44.773976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jump and Raft - Millinocket, ME</name>
+        <description><![CDATA[Jump and Raft (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-maine.html)<br>Millinocket, ME]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -68.690386,45.647138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean City Skydiving Center - Berlin, MD</name>
+        <description><![CDATA[Ocean City Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-maryland.html)<br>Berlin, MD]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -75.120285,38.309824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jumptown/MSPC, Inc. - Orange, MA</name>
+        <description><![CDATA[Jumptown/MSPC, Inc. <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-massachusetts.html)Orange, MA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -72.283881,42.574953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepperell Skydiving Center - Pepperell, MA</name>
+        <description><![CDATA[Pepperell Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-massachusetts.html)<br>Pepperell, MA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -71.550221,42.696078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Cape Cod - Marstons Mills, MA</name>
+        <description><![CDATA[Skydive Cape Cod (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-massachusetts.html)<br>Marstons Mills, MA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -70.407794,41.684435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Chatham - Chatham, MA</name>
+        <description><![CDATA[Skydive Chatham (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-massachusetts.html)<br>Chatham, MA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -69.991965,41.688649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Plum Island - Rowley, MA</name>
+        <description><![CDATA[Skydive Plum Island (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-massachusetts.html)<br>Rowley, MA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -70.842376,42.796062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Capital City Skydiving - Fowlerville, MI</name>
+        <description><![CDATA[Capital City Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Fowlerville, MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -84.057877,42.714638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Michigan Skydivers - Mt. Pleasant, MI</name>
+        <description><![CDATA[Central Michigan Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Mt. Pleasant, MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -84.738021,43.619114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Midwest Freefall Sport Parachute Club, Inc. - Ray, MI</name>
+        <description><![CDATA[Midwest Freefall Sport Parachute Club (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Ray, MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -82.940748,42.759759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Napoleon Skydiving Center - Napoleon, MI</name>
+        <description><![CDATA[Napoleon Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Napoleon, MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -84.258442,42.167443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parachutes LLC - Allegan , MI</name>
+        <description><![CDATA[Parachutes LLC (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Allegan , MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -85.832534,42.533303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Allegan - Allegan , MI</name>
+        <description><![CDATA[Skydive Allegan (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Allegan , MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -85.831761,42.533429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Harbor Springs - Harbor Springs, MI</name>
+        <description><![CDATA[Skydive Harbor Springs (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Harbor Springs, MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -84.907236,45.425775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Michigan! - Marshall , MI</name>
+        <description><![CDATA[Skydive Michigan! (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Marshall , MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -84.963477,42.254252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Tecumseh - Tecumseh, MI</name>
+        <description><![CDATA[Skydive Tecumseh (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Tecumseh, MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -83.943744,42.02518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wild Wind Skydivers - Saginaw, MI</name>
+        <description><![CDATA[Wild Wind Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-michigan.html)<br>Saginaw, MI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -83.86111,43.429081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minnesota Skydivers Club - Waseca, MN</name>
+        <description><![CDATA[Minnesota Skydivers Club <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-minnesota.html)Waseca, MN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -93.548584,44.08105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Adventures - Luverne, MN</name>
+        <description><![CDATA[Skydive Adventures (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-minnesota.html)<br>Luverne, MN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -96.214485,43.623153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Minnesota - Milaca, MN</name>
+        <description><![CDATA[Skydive Minnesota (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-minnesota.html)<br>Milaca, MN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -93.632312,45.770397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Twin Cities - Baldwin, MN</name>
+        <description><![CDATA[Skydive Twin Cities (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-minnesota.html)<br>Baldwin, MN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -92.391329,44.963796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southern Minnesota Skydiving - Waseca, MN</name>
+        <description><![CDATA[Southern Minnesota Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-minnesota.html)<br>Waseca, MN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -93.548841,44.073342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westside Skydivers - Winsted , MN</name>
+        <description><![CDATA[Westside Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-minnesota.html)<br>Winsted , MN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -94.075928,44.951679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gold Coast Skydivers - Lumberton, MS</name>
+        <description><![CDATA[Gold Coast Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-mississippi.html)<br>Lumberton, MS]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -89.482098,31.015886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fly Free Skydiving - Festus, MO</name>
+        <description><![CDATA[Fly Free Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-missouri.html)<br>Festus, MO]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -90.387053,38.19546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Missouri - Mount Vernon , MO</name>
+        <description><![CDATA[Skydive Missouri (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-missouri.html)<br>Mount Vernon , MO]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -93.859377,37.074166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meadow Peak Skydiving - Marion , MT</name>
+        <description><![CDATA[Meadow Peak Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-montana.html)<br>Marion , MT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -114.857962,48.107044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Lost Prairie - Marion, MT</name>
+        <description><![CDATA[Skydive Lost Prairie (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-montana.html)<br>Marion, MT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -114.851246,48.096254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Atlas - Minden , NE</name>
+        <description><![CDATA[Skydive Atlas (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-nebraska.html)<br>Minden , NE]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -98.947506,40.517192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Las Vegas - Boulder City, NV</name>
+        <description><![CDATA[Skydive Las Vegas (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-nevada.html)<br>Boulder City, NV]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -114.855945,35.949384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Mesquite - Mesquite, NV</name>
+        <description><![CDATA[Skydive Mesquite (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-nevada.html)<br>Mesquite, NV]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -114.061153,36.82751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vegas Extreme Skydiving - Jean, NV</name>
+        <description><![CDATA[Vegas Extreme Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-nevada.html)<br>Jean, NV]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -115.386658,35.618181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Jersey - Pittstown, NJ</name>
+        <description><![CDATA[Skydive Jersey <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-jersey.html)Pittstown, NJ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -75.013919,40.588667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Jersey Shore - Farmingdale, NJ</name>
+        <description><![CDATA[Skydive Jersey Shore (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-jersey.html)<br>Farmingdale, NJ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -74.122267,40.186414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Hobbs - Hobbs, NM</name>
+        <description><![CDATA[Skydive Hobbs (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-new-mexico.html)<br>Hobbs, NM]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -103.235264,32.696798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adrenaline Air Sports/Carolina Skydiving - Jonesville, NC</name>
+        <description><![CDATA[Adrenaline Air Sports/Carolina Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-north-carolina.html)<br>Jonesville, NC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.863688,36.202815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laurinburg-Maxton - Maxton, NC</name>
+        <description><![CDATA[Laurinburg-Maxton (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-north-carolina.html)<br>Maxton, NC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -79.369419,34.796396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piedmont Skydiving - Salisbury, NC</name>
+        <description><![CDATA[Piedmont Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-north-carolina.html)<br>Salisbury, NC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.522125,35.641569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raeford Parachute Center - Raeford, NC</name>
+        <description><![CDATA[Raeford Parachute Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-north-carolina.html)<br>Raeford, NC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -79.189239,35.018329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Coastal Carolinas - Southport , NC</name>
+        <description><![CDATA[Skydive Coastal Carolinas (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-north-carolina.html)<br>Southport , NC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -78.068547,33.936221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive OBX - Manteo, NC</name>
+        <description><![CDATA[Skydive OBX (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-north-carolina.html)<br>Manteo, NC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -75.700414,35.917833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tradewind Skysports - Washington, NC</name>
+        <description><![CDATA[Tradewind Skysports (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-north-carolina.html)<br>Washington, NC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -76.758471,35.82185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Triangle Skydiving Center - Louisburg, NC</name>
+        <description><![CDATA[Triangle Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-north-carolina.html)<br>Louisburg, NC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -78.331554,36.027115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Fargo! - West Fargo, ND</name>
+        <description><![CDATA[Skydive Fargo! (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-north-dakota.html)<br>West Fargo, ND]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -96.921344,46.90614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aerohio Skydiving Center - Rittman, OH</name>
+        <description><![CDATA[Aerohio Skydiving Center <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-ohio.html)Rittman, OH]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.812203,40.946033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Alliance Sport Parachute Club / Skydive Rick's - Petersburg, OH]]></name>
+        <description><![CDATA[Alliance Sport Parachute Club/Skydive Rick's (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-ohio.html)<br>Petersburg, OH]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.556307,40.89989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canton Air Sports - Alliance , OH</name>
+        <description><![CDATA[Canton Air Sports (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-ohio.html)<br>Alliance , OH]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.10204,40.974066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Columbus Ohio - Carroll, OH</name>
+        <description><![CDATA[Skydive Columbus Ohio (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-ohio.html)<br>Carroll, OH]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -82.662399,39.754399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Warren County - Lebanon , OH</name>
+        <description><![CDATA[Skydive Warren County (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-ohio.html)<br>Lebanon , OH]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -84.252884,39.455066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Start Skydiving - Middletown , OH</name>
+        <description><![CDATA[Start Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-ohio.html)<br>Middletown , OH]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -84.39678,39.531287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pegasus Skydiving - Chickasha, OK</name>
+        <description><![CDATA[Pegasus Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-oklahoma.html)<br>Chickasha, OK]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.895565,35.063058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Airtight - Skiatook, OK</name>
+        <description><![CDATA[Skydive Airtight (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-oklahoma.html)<br>Skiatook, OK]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -96.013319,36.35718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eugene Skydivers - Creswell, OR</name>
+        <description><![CDATA[Eugene Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-oregon.html)<br>Creswell, OR]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.007286,43.931064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Oregon - Molalla, OR</name>
+        <description><![CDATA[Skydive Oregon (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-oregon.html)<br>Molalla, OR]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.616799,45.149737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Above It All Skydiving School / Skydive Philadelphia - Perkasie, PA</name>
+        <description><![CDATA[Above It All Skydiving School (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>Skydive Philadelphia (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>Perkasie, PA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -75.28302,40.388495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Above the Poconos Skydivers / NEPA Ripcords - Hazleton, PA</name>
+        <description><![CDATA[Above the Poconos Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>NEPA Ripcords (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>Hazleton, PA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -75.992432,40.988159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chambersburg Skydiving Center - Chambersburg, PA</name>
+        <description><![CDATA[Chambersburg Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>Chambersburg, PA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -77.648299,39.972055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Endless Mountain Skydivers - Tunkhannock, PA</name>
+        <description><![CDATA[Endless Mountain Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>Tunkhannock, PA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -75.947027,41.529399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kutztown / Keystone Skydive Center - Collegeville, PA</name>
+        <description><![CDATA[Kutztown / Keystone Skydive Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>Collegeville, PA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -75.428567,40.204804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maytown Sport Parachute Club - Marietta, PA</name>
+        <description><![CDATA[Maytown Sport Parachute Club (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>Marietta, PA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -76.573184,40.089875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Happy Valley - Reedsville, PA</name>
+        <description><![CDATA[Skydive Happy Valley (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>Reedsville, PA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -77.621841,40.677904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Pennsylvania - Mercer, PA</name>
+        <description><![CDATA[Skydive Pennsylvania (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>Mercer, PA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.175261,41.146943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sky's The Limit - East Stroudsburg, PA]]></name>
+        <description><![CDATA[Sky's The Limit (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-pennsylvania.html)<br>East Stroudsburg, PA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -75.156376,41.035568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flying Tigers SPC - Seneca, SC</name>
+        <description><![CDATA[Flying Tigers SPC <br> (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-south-carolina.html)Seneca, SC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -82.884314,34.671017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Carolina! - Chester, SC</name>
+        <description><![CDATA[Skydive Carolina! (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-south-carolina.html)<br>Chester, SC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -81.199694,34.790405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Walterboro - Walterboro, SC</name>
+        <description><![CDATA[Skydive Walterboro (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-south-carolina.html)<br>Walterboro, SC]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -80.637503,32.917494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adventure Skydiving Tennessee - Waverly , TN</name>
+        <description><![CDATA[Adventure Skydiving Tennessee (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-tennessee.html)<br>Waverly , TN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -87.74555,36.114806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive East Tennessee - Dandridge, TN</name>
+        <description><![CDATA[Skydive East Tennessee (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-tennessee.html)<br>Dandridge, TN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -83.545682,36.013422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ground Rush Skydiving Club - Kountze, TX</name>
+        <description><![CDATA[Ground Rush Skydiving Club (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>Kountze, TX]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -94.260721,30.343473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mustang Island Skydiving / Skydive South Texas - Port Aransas, TX</name>
+        <description><![CDATA[Mustang Island Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>Skydive South Texas (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>Port Aransas, TX]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.084465,27.808106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive 35 - Hillsboro , TX</name>
+        <description><![CDATA[Skydive 35 (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>Hillsboro , TX]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.081504,32.107806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Dallas - Whitewright, TX</name>
+        <description><![CDATA[Skydive Dallas (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>Whitewright, TX]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -96.377563,33.449956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Houston - Eagle Lake, TX</name>
+        <description><![CDATA[Skydive Houston (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>Eagle Lake, TX]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -96.326044,29.596838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive San Marcos - South Fentress, TX</name>
+        <description><![CDATA[Skydive San Marcos (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>South Fentress, TX]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.771947,29.755175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Spaceland - Rosharon, TX</name>
+        <description><![CDATA[Skydive Spaceland (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>Rosharon, TX]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -95.45674,29.518687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive SPI - South Padre Island, TX</name>
+        <description><![CDATA[Skydive SPI (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>South Padre Island, TX]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.163773,26.09558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Temple - Salado, TX</name>
+        <description><![CDATA[Skydive Temple (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-texas.html)<br>Salado, TX]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.539368,30.925052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ogden Skydiving Center - Ogden, UT</name>
+        <description><![CDATA[Ogden Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-utah.html)<br>Ogden, UT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -111.998878,41.201567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Canyonlands - Moab, UT</name>
+        <description><![CDATA[Skydive Canyonlands (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-utah.html)<br>Moab, UT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -109.744921,38.762516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Moab - Moab, UT</name>
+        <description><![CDATA[Skydive Moab (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-utah.html)<br>Moab, UT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -109.748354,38.76265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Utah - Erda, UT</name>
+        <description><![CDATA[Skydive Utah (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-utah.html)<br>Erda, UT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -112.348509,40.6076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malone Parachute Club - Swanton, VT</name>
+        <description><![CDATA[Malone Parachute Club (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-vermont.html)<br>Swanton, VT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -73.094873,44.938618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vermont Skydiving Adventures - Addison , VT</name>
+        <description><![CDATA[Vermont Skydiving Adventures (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-vermont.html)<br>Addison , VT]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -73.378673,44.071939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Ridge Skydiving Adventures - New Market, VA</name>
+        <description><![CDATA[Blue Ridge Skydiving Adventures (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-virginia.html)<br>New Market, VA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -78.69024,38.668524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DC Skydiving Center - Warrenton, VA</name>
+        <description><![CDATA[DC Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-virginia.html)<br>Warrenton, VA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -77.78389,38.652237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>No Limits Skydiving - Kenbridge, VA</name>
+        <description><![CDATA[No Limits Skydiving (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-virginia.html)<br>Kenbridge, VA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -78.182874,36.961586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydiving West Point - Mattaponi, VA</name>
+        <description><![CDATA[Skydiving West Point (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-virginia.html)<br>Mattaponi, VA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -76.762462,37.523648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Orange - Orange, VA</name>
+        <description><![CDATA[Skydive Orange (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-virginia.html)<br>Orange, VA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -78.055007,38.254611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Suffolk - Suffolk, VA</name>
+        <description><![CDATA[Skydive Suffolk (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-virginia.html)<br>Suffolk, VA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -76.610949,36.681378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Virginia Skydiving Center - Petersburg, VA</name>
+        <description><![CDATA[Virginia Skydiving Center (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-virginia.html)<br>Petersburg, VA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -77.501829,37.19275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kapowsin Air Sports - Shelton, WA</name>
+        <description><![CDATA[Kapowsin Air Sports (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-washington.html)<br>Shelton, WA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.141932,47.242808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Snohomish - Snohomish, WA</name>
+        <description><![CDATA[Skydive Snohomish (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-washington.html)<br>Snohomish, WA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.09924,47.907252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Toledo - Toledo, WA</name>
+        <description><![CDATA[Skydive Toledo (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-washington.html)<br>Toledo, WA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.816784,46.476483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[West Plains Skydiving "The Ritz" - Ritzville , WA]]></name>
+        <description><![CDATA[West Plains Skydiving "The Ritz" (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-washington.html)<br>Ritzville , WA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -118.279624,47.162437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Virginia Skydivers - Huntington , WV</name>
+        <description><![CDATA[West Virginia Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-west-virginia.html)<br>Huntington , WV]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -82.311952,38.459705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seven Hills Skydivers - Marshall, WI</name>
+        <description><![CDATA[Seven Hills Skydivers (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-wisconsin.html)<br>Marshall, WI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -89.067814,43.26005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Adventure - Omro, WI</name>
+        <description><![CDATA[Skydive Adventure (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-wisconsin.html)<br>Omro, WI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -88.703485,44.038152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Door County - Sturgeon Bay, WI</name>
+        <description><![CDATA[Skydive Door County (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-wisconsin.html)<br>Sturgeon Bay, WI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -87.425079,44.841006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Midwest - Sturtevant, WI</name>
+        <description><![CDATA[Skydive Midwest (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-wisconsin.html)<br>Sturtevant, WI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -87.958839,42.703632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Milwaukee - East Troy , WI</name>
+        <description><![CDATA[Skydive Milwaukee (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-wisconsin.html)<br>East Troy , WI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -88.305488,42.828646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Superior - Superior, WI</name>
+        <description><![CDATA[Skydive Superior (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-wisconsin.html)<br>Superior, WI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -92.058563,46.654739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Twin Cities - Baldwin , WI</name>
+        <description><![CDATA[Skydive Twin Cities (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-wisconsin.html)<br>Baldwin , WI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -92.392359,44.96542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive Wissota/Indianhead SPC - Chippewa Falls, WI</name>
+        <description><![CDATA[Skydive Wissota/Indianhead SPC (http://www.intheskysports.com/skydiving/dropzones/list-drop-zones-wisconsin.html)<br>Chippewa Falls, WI]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -91.272955,44.935276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
