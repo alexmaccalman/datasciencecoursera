@@ -5,11 +5,12 @@ date: "8/10/2020"
 output: html_document
 ---
 
-# Map of Skydiving Draopzones in the United States  
+# Map of Skydiving Dropzones in the United States  
 ```{r, echo=FALSE, include=FALSE}
 library(sf)
 library(dplyr)
 library(leaflet)
+library(knitr)
 ```
 
 This page shows a map of all skydiving dropzones in the United States. Data for this map was downloaded from google at teh following website ass a kml file: https://www.google.com/maps/d/viewer?ie=UTF8&t=m&oe=UTF8&msa=0&mid=1ItKSNh2yynMbiJIf-hp8tyIUEPo&ll=44.911080614651326%2C-113.43712099999999&z=4
